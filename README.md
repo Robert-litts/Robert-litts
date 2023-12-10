@@ -7,6 +7,6 @@ I'm Robbie!
 - 💬 Ask me about selfhosting! I run a 5 node high-availability Proxmox cluster which houses all of my self-hosted applications. Check out my network diagram on my [website](https://litts.me/homelab)
 
 Here's what I am running at home:
-![Homelab](homelab.png)
+![Homelab](homelab_updated.png)
 
 Thanks for stopping by! 
