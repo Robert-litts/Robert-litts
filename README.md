@@ -20,6 +20,8 @@ This contains the (mostly) complete list of software & services I am running:
 ![Homelab](homelab_updated.png)
 
 ## Some of my favorite open source projects:
+- [Homepage](https://github.com/gethomepage/homepage) --> Where I created the above Homepage with links to all my internal apps & services
+- [Mail-in-a-box](https://github.com/mail-in-a-box/mailinabox) --> Turn a fresh Ubuntu Virtual Private Server (VPS) into a working mail server
 - [OPNsense](https://github.com/opnsense) --> Stateful firewall & router based on FreeBSD
 - [Ntfy](https://github.com/binwiederhier/ntfy) --> Notifications for everything
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) --> Network Monitoring
