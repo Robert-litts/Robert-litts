@@ -34,6 +34,5 @@ This contains the (mostly) complete list of software & services I am running:
 - [Proxmox](https://www.proxmox.com/en/) --> Type 1 Hypervisor for virtualization
 - [Adguard Home](https://github.com/AdguardTeam/AdGuardHome) --> Network DNS filter
 - [Nextcloud](https://github.com/nextcloud) --> Document storage/sharing with many integrated apps
-- 
 
 Thanks for stopping by! 
