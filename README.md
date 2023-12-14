@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3A9A1E&random=false&width=435&lines=Hi%2C+I'm+Robbie;Electrical+Engineer;Linux+%26+Homelab+enthusiast;I+Selfhost+(almost)+Everything)](https://git.io/typing-svg)
 
-## #whoami
+## $ whoami
 - 🔭 My background is in Electrical Engineering with a specilization in communcations systems and digital signal processing. I have a passion for security & strive to develop a deep understanding of any technology I work with.
 - 🌱 I’m a lifelong learner working on improving my programming skills. I first learned C++ and C# over 10 years ago and have been working in Python and C more recently.
 - 🌎 Check out my [website](https://litts.me/homelab), where I post writeups about my projects and share my academic research
