@@ -8,6 +8,7 @@
 - 💻 I use Linux everywhere I can!
 - 📻 Software Defined Radio (SDR) is one of the coolest technologies available! 
 - 📡 I am fascinated with networking, as it is at the core of all modern technology yet widely misunderstood! I have spent a lot of time working on understanding the TCP/IP stack through implementation of my own home network including OPNsense Firewalls, managed switches, DNS filtering, reverse proxies, network attached storage, and Docker application containers.
+- I am learning more about automation and configuration management tools, including Terraform & Ansible, and automating my testing/deployments with self-hosted Gitea Runners.
 <div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,raspberrypi,py,bash,matlab,cpp,cs,md,r)](https://skillicons.dev)
