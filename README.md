@@ -11,7 +11,7 @@
 - I am learning more about automation and configuration management tools, including Terraform & Ansible, to streamline my testing/deployments with self-hosted Gitea Runners.
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=linux,ansible,docker,terraform,raspberrypi,py,bash,matlab,cpp,cs,md,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ansible,docker,terraform,raspberrypi,go,py,bash,matlab,cpp,cs,md,r)](https://skillicons.dev)
 
 </div>
 
