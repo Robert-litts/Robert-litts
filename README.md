@@ -2,7 +2,7 @@
 
 ## $ whoami
 - 🔭 My background is in Electrical Engineering with a specilization in communcations systems and digital signal processing. I have a passion for security & strive to develop a deep understanding of any technology I work with.
-- 🌱 I’m a lifelong learner working on improving my programming skills. I first learned C++ and C# over 10 years ago and have been working in Python and C more recently.
+- 🌱 I’m a lifelong learner working on improving my programming skills. I first learned C++ and C# over 10 years ago and have been working in Go & Python more recently.
 - 🌎 Check out my [website](https://litts.me/homelab), where I post writeups about my projects and share my academic research
 - 💬 Ask me about selfhosting! I run a 5 node high-availability Proxmox cluster which houses all of my self-hosted applications, most of which are running in Docker.
 - 💻 I use Linux everywhere I can!
